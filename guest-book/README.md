@@ -19,3 +19,15 @@ git push origin main
 pull before push is working on a project with other people!!!
 
 git status --> tells you whats going on
+
+---
+
+## Branches
+
+git checkout -b NAME-OF-BRANCH
+
+git checkout -> take you name toa branch
+
+git add & commit
+
+git push origin NAME-OF-BRANCH
