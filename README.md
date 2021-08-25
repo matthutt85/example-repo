@@ -12,3 +12,10 @@ git add . or file name or -A adds to staging
 
 git commit -m "meaningful message help you out later on"
 
+git pull origin main /
+
+git push origin main
+
+pull before push is working on a project with other people!!!
+
+git status --> tells you whats going on
